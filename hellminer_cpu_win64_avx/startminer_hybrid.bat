@@ -1,0 +1,1 @@
+hellminer.exe -c stratum+tcp://ap.luckpool.net:3956#xnsub -u RDiUtpKzbpQuU9c4xWM2B2EX6LNhKHQnVS.SKD1 -p hybrid --cpu 4
